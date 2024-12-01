@@ -14,7 +14,7 @@
 
 #### App
 SVG-sprite  
-[SVG-modify](https://icomoon.io/)  
+[SVG-modify](https://icomoon.io/app/#/select)  
 [SVG-align](https://svgomg.net/)  
 Image  
 [Squoosh](https://squoosh.app/)  
