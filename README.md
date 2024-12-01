@@ -10,4 +10,13 @@
 [Homework-05](./fullstack/markup/goit-markup-hw-05)  
 #### Lesson
 [Lesson-Figma](https://www.figma.com/design/pstESDjQIiclEfG4usO7l0/goit-markup-lesson-simply-chocolate?node-id=606-33&node-type=canvas&t=sLS934Al6JUzlKvO-0)  
-[Lesson-01]()
+[Lesson-01]()  
+
+#### App
+SVG-sprite
+[SVG-modify](https://icomoon.io/)  
+[SVG-align](https://svgomg.net/)  
+Image
+[Squoosh](https://squoosh.app/)  
+Validator
+[Validator](https://validator.w3.org/nu/)  
