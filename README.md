@@ -13,10 +13,10 @@
 [Lesson-01]()  
 
 #### App
-SVG-sprite
+SVG-sprite  
 [SVG-modify](https://icomoon.io/)  
 [SVG-align](https://svgomg.net/)  
-Image
+Image  
 [Squoosh](https://squoosh.app/)  
-Validator
+Validator  
 [Validator](https://validator.w3.org/nu/)  
