@@ -20,3 +20,7 @@ Image
 [Squoosh](https://squoosh.app/)  
 Validator  
 [Validator](https://validator.w3.org/nu/)  
+#### Figma  
+Plugins:  
+Inspect Styles  
+Font Fascia  
